@@ -1,27 +1,40 @@
-# 🧠 AI & Python Projects by Ram Addanki
+# 📉 Customer Churn Predictor  
+> Predict customer churn using a Scikit-learn pipeline with a live Streamlit demo.
 
-Welcome to my **projects portfolio** — a collection of real-world **AI, Data Science, and Python automation** work.  
-Each folder here contains a complete, runnable project with clean code and documentation.
+[![View on GitHub](https://img.shields.io/badge/🔗%20View%20Code-GitHub-black?logo=github)](https://github.com/linuxra/projects/tree/main/customer-churn-predictor)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-predictor-linuxra.streamlit.app)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-ML%20Pipeline-orange?logo=scikitlearn)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
-## 🚀 Featured Project: Customer Churn Predictor
-**Location:** [`customer-churn-predictor/`](customer-churn-predictor)
+## 💡 Overview
+This project demonstrates how to build a **complete machine learning workflow** for predicting customer churn using Python and Scikit-learn.
 
-End-to-end **machine learning pipeline** to predict customer churn using:
-- Python, Pandas, NumPy, Scikit-learn  
-- RandomForestClassifier (Pipeline + ColumnTransformer)
-- Clean modular structure (`src/` scripts)
-- Validation metrics, model saving, and CLI predictions
+**Key Features**
+- Data preprocessing with `ColumnTransformer`
+- Model training and validation (RandomForest)
+- CLI prediction and Streamlit web app interface
+- Modular, production-style folder structure
 
-**Highlights:**
-- Preprocessing of mixed data types (numeric + categorical)
-- Feature engineering pipeline
-- Training / validation / test split
-- Saved model for reuse (`.joblib`)
-- CLI-based prediction interface for new customers
+---
 
-🧩 **Tech Stack:** Python 3.10+, Pandas, NumPy, Scikit-learn  
+## 🌐 Live Demo
+Try it instantly in your browser!  
+👉 [**Open the Streamlit App**](https://customer-churn-predictor-linuxra.streamlit.app)
+
+---
+
+## 🧰 Tech Stack
+| Component | Technology |
+|------------|-------------|
+| Language | Python 3.10+ |
+| ML Framework | Scikit-learn |
+| Libraries | Pandas, NumPy, Joblib |
+| Interface | Streamlit |
+| Deployment | Streamlit Cloud |
+ 
 📈 **Goal:** Predict probability of customer churn for a telecom dataset.  
 🔗 **Dataset:** [Kaggle Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
 
