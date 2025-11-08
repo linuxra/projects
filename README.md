@@ -41,7 +41,7 @@ I’m continuously adding new mini-projects such as:
 
 👤 **Ram Addanki**  
 💼 *AI/ML Engineer | Data Science | Python Developer*  
-📧 [Contact Me on LinkedIn](https://www.linkedin.com/in/ram-addanki)  
+📧 [Contact Me on LinkedIn](https://www.linkedin.com/in/surya-ramakrishna-addanki/)  
 🌐 [GitHub Profile](https://github.com/linuxra)
 
 ---
